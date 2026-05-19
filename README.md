@@ -15,7 +15,20 @@ This is a simple exercise to practice making your first commit.
 | Name | Email |
 |------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com |
-| Marek Valach | Mvalach71@gmail.com |
+| Marek Valach | Mvalach71@gmail.com 
+| Tomáš Paterna | awptom8@gmail.com |
+| Ondřej Kliment | andrew.kliment6@gmail.com |
+| Martin Šupler | suplerm0@gmail.com |
+| Milan Koutný | comodore999@gmail.com |
+| Erik Boucník | xderza4285@gmail.com |
+| Filip Kamenčák | kamencak.filip@seznam.cz |
+| Jakub Malota | jakub.malota08@gmail.com |
+| Filip Vápeník | filip.vaaaa@gmail.com |
+| Tomas Gregorik | tomas.gregorik@post.cz |
+| Magdaléna Čížová | magda.cizova1@gmail.com|
+| Richard Vávra | risavavra@gmail.com |
+| Vanessa Pešlová | vanessa.peslova@seznam.cz|
+| Dominik Kuřil | domzdrlol@gmail.com
 
 ## 🔗 Links
 
